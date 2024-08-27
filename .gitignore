@@ -1,3 +1,8 @@
+#ignore large files
+data/Traffic_Crashes_-_Crashes_20240826.csv
+data/Traffic_Crashes_-_People_20240821.csv
+data/Traffic_Crashes_-_Vehicles_20240821.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
